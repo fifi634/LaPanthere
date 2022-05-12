@@ -1,0 +1,21 @@
+/* Modification Fifi */
+
+ .presentation {
+     font-size: 22px;
+     color: #a0a0a0;
+     line-height: 2.5rem;
+ }
+
+ .italic {
+     font-style: italic;
+ }
+
+h2 {
+     text-align: center;
+     font-size: 32px;
+     color: black;
+ }
+
+ .title-bloc3 {
+     color: white;
+ }

@@ -2,7 +2,7 @@
 
  .presentation {
      font-size: 22px;
-     color: #a0a0a0;
+     color: #686666;
      line-height: 2.5rem;
  }
 
@@ -18,4 +18,8 @@ h2 {
 
  .title-bloc3 {
      color: white;
+ }
+
+ .fa-chevron-up {
+    color: black;
  }

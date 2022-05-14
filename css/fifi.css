@@ -23,3 +23,9 @@ h2 {
  .fa-chevron-up {
     color: black;
  }
+
+ .fifi-bold {
+     color: black;
+     font-weight: 800;
+     font-size: 22px;
+ }

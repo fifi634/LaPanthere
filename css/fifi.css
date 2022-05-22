@@ -1,6 +1,6 @@
 /* Modification Fifi */
 
- .presentation {
+ .presentation-fifi {
      font-size: 22px;
      color: #686666;
      line-height: 2.5rem;
@@ -16,16 +16,14 @@ h2 {
      color: black;
  }
 
- .title-bloc3 {
-     color: white;
- }
+.margin-fifi {
+    margin: 6%;
+    @media screen all and (min-width: 960px;) {
+        margin: unset;
+    }
+}
 
- .fa-chevron-up {
-    color: black;
- }
-
- .fifi-bold {
-     color: black;
-     font-weight: 800;
-     font-size: 22px;
- }
+.flexColumn-fifi {
+    display: flex;
+    flex-direction: column;
+}

@@ -1,0 +1,29 @@
+/* Modification Fifi */
+
+ .presentation-fifi {
+     font-size: 22px;
+     color: #686666;
+     line-height: 2.5rem;
+ }
+
+ .italic {
+     font-style: italic;
+ }
+
+h2 {
+     text-align: center;
+     font-size: 32px;
+     color: black;
+ }
+
+.margin-fifi {
+    margin: 6%;
+    @media screen all and (min-width: 960px;) {
+        margin: unset;
+    }
+}
+
+.flexColumn-fifi {
+    display: flex;
+    flex-direction: column;
+}
